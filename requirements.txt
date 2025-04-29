@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+streamlit
+torch
+transformers
+huggingface_hub
+google-cloud-aiplatform
+python-dotenv
+google-generativeai
